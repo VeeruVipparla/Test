@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SpringBoot_example\Flight"/>
+			<item value="E:\SpringBoot_example\studentexample\studentexample"/>
+			<item value="E:\SpringBoot_Project\employer\employer"/>
+			<item value="E:\SpringBoot_Project\rest-service\rest-service"/>
+			<item value="E:\SpringBoot_Project\springboot-helloworld\springboot-helloworld"/>
+			<item value="E:\SpringBoot_example\spring-boot-hibernate-crud-demo (3)\spring-boot-hibernate-crud-demo"/>
+			<item value="E:\HATEOAS &amp; Interalization for RESTful\Implementing HATEOAS for RESTful Services\Implementing HATEOAS for RESTful Services\restful-web-services3"/>
+			<item value="E:\HATEOAS &amp; Interalization for RESTful\Implementing HATEOAS for RESTful Services\Implementing HATEOAS for RESTful Services"/>
+			<item value="E:\HATEOAS &amp; Interalization for RESTful\Implementing HATEOAS for RESTful Services"/>
+			<item value="E:\SpringBoot_Project\Implementing Generic Exception Handing For All Users\Exceptio Handing_SB\Internal Server Error\restful-web-services-11"/>
+			<item value="E:\SpringBoot_Project\Implementing Generic Exception Handing For All Users\Exceptio Handing_SB\Internal Server Error\restful-web-services"/>
+			<item value="E:\SpringBoot_Project\Enhancing the Hello World Service with a Path Variable\Enhancing the Hello World Service with a Path Variable\restful-web-services"/>
+			<item value="E:\SpringBoot_Project\sbDemo\sbDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

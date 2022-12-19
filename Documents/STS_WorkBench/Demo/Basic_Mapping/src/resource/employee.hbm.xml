@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+<class name="com.test.basicmapping.Employee" table="employee1">
+<id name="empId" type="integer">
+<column name="empid"/>
+<generator class="increment"/>
+</id>
+
+<property name="empName" type="string">
+<column name="empname"/>
+</property>
+
+<property name="doj" type="date">
+<column name="doj"/>
+</property>
+
+<property name="login" type="timestamp">
+<column name="login"/>
+</property>
+
+<property name="salary" type="double">
+<column name="salary"/>
+</property>
+
+</class>
+</hibernate-mapping>

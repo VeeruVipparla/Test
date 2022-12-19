@@ -1,0 +1,5 @@
+I've been trying to convert my C++ code into Java and I'm getting stuck particularly on the file input.
+
+String inputfilename = args[0];
+    Scanner infile = new Scanner (new FileInputStream(inputfilename));
+This keeps giving me a java.io.FileNotFoundException error. My file that I'm trying to pass in "StackData.txt" is put correctly into the command line arguements. I've put it in the root directory and the project\src\ folder, and neither are working for me. I've tried to name the inputfilename string and do like -

@@ -1,0 +1,15 @@
+package com.jlc.serialization;
+
+import java.io.FileOutputStream;
+
+public class Lab704_Serialization {
+
+	public static void main(String[] args) {
+		try (
+			FileOutputStream fos=new FileOutputStream("D:\\info.ser");
+				
+		}
+
+	}
+
+}

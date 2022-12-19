@@ -1,0 +1,18 @@
+package com.snr.demo.test;
+
+public class Array {
+
+	public static void main(String[] args) {
+		
+		int arr[][]= {{12,13,14},{32},{34,54,55}};
+		arr=new int[][]{{12,13,14},{32}};
+		for(int ar[]:arr){
+			for(int a:ar)
+			System.out.print(a);
+			System.out.println();
+			
+		}
+
+	}
+
+}

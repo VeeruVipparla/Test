@@ -1,0 +1,50 @@
+package com.snr.demo.test;
+
+public class Test2{
+public static void main(String arg[]){
+		int arr[][]=null;
+		arr=new int[][]{{10,34,42},{36,73,99},{34,54,98}};
+		for(int ar[]:arr){
+			for(int a:ar)
+			System.out.println(a);
+			
+			System.out.println();
+			
+		}
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+	
+		
+		
+		
+	
+
+	

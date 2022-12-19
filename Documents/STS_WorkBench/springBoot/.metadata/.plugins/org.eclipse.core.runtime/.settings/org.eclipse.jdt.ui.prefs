@@ -1,0 +1,13 @@
+command=C\:\\Program Files\\Java\\jdk1.8.0_301\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.demo.sb.Employee"><rhs name\="com.demo.sb.Employee"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.veeru.test.sb.model.Customer"><rhs name\="com.veeru.test.sb.model.Customer"/></lhs><lhs name\="org.hibernate.cfg.Configuration"><rhs name\="org.hibernate.cfg.Configuration"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpStatus"/><rhs name\="javax.persistence.CascadeType"/><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="com.veeru.test.sb.model.Laptop"><rhs name\="com.veeru.test.sb.model.Laptop"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="com.project.entity.Employee"><rhs name\="com.project.entity.Employee"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.util.concurrent.atomic.AtomicLong"/></lhs><lhs name\="java.util.concurrent.atomic.AtomicLong"><rhs name\="java.util.concurrent.atomic.AtomicLong"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

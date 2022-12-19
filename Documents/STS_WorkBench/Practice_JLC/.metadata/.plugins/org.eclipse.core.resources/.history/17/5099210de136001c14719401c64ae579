@@ -1,0 +1,10 @@
+package com.java.pract_progrms;
+
+public class DuplicateWordFind {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

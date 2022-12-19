@@ -1,0 +1,17 @@
+package com.snr.demo.test;
+
+public class Array {
+
+	public static void main(String[] arr) {
+		// TODO Auto-generated method stub
+		int arr[][]= {{12,13,14},{32},{34,54,55}};
+		for(int ar[]:arr) {
+			for(int a:ar);
+			System.out.println("\t"+a);
+			System.out.println();
+			
+		}
+
+	}
+
+}

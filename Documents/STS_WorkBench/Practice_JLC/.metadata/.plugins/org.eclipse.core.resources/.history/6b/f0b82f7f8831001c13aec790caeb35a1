@@ -1,0 +1,10 @@
+package com.jlc.serialization;
+
+public class Lab704_Serialization {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

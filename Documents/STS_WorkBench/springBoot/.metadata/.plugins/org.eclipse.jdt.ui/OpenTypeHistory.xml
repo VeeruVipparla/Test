@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=SNDEMO/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.sb.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1631712518017"/>
+    <typeInfo handle="=SNDEMO/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.sb.dao{EmployeeDao.java[EmployeeDao" modifiers="513" timestamp="1631712551334"/>
+    <typeInfo handle="=SNDEMO/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.sb.service{UserService.java[UserService" modifiers="513" timestamp="1632746721964"/>
+    <typeInfo handle="=SNDEMO/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.sb.dao{UserDao.java[UserDao" modifiers="513" timestamp="1632836694613"/>
+    <typeInfo handle="=restiful-web-services1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.veeru.test.sb.dao{LaptopDao.java[LaptopDao" modifiers="513" timestamp="1632992982107"/>
+    <typeInfo handle="=SpringBootExample_2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.veeru.sevice.sb{ItemService.java[ItemService" modifiers="513" timestamp="1637639757449"/>
+    <typeInfo handle="=SpringBootExample_2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.veeru.DAO.sb{ItemDao.java[ItemDao" modifiers="513" timestamp="1637639903384"/>
+</typeInfoHistroy>

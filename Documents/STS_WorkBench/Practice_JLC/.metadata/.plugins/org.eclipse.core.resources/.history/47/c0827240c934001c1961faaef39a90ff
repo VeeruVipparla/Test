@@ -1,0 +1,13 @@
+package com.interview.practice;
+
+public class Recursive {
+
+	public static void main(String[] args) {
+	String str="Veeru";
+	System.out.println(recursiveMethod(str));
+	
+
+	}
+	
+
+}

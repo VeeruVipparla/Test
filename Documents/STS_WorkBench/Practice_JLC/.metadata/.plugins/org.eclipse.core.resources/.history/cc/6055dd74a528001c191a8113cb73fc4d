@@ -1,0 +1,7 @@
+package com.jlc.miscellaneous;
+
+public class Practice {
+private int sid;	
+private String sname;
+
+}

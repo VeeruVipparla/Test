@@ -1,0 +1,13 @@
+package com.java.pract_progrms;
+
+public class DuplicateWordFind {
+
+	public static void main(String[] args) {
+	String str="Java Program Java";
+	//Converting the toLowerCase
+	str= str.toLowerCase();
+	str.split(str);
+
+	}
+
+}

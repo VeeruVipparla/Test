@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.notebookpractice.SuperClass&apos; to &apos;SubClass&apos;&#x0D;&#x0A;- Original project: &apos;PracticeSession_2&apos;&#x0D;&#x0A;- Original element: &apos;com.notebookpractice.SuperClass&apos;&#x0D;&#x0A;- Renamed element: &apos;com.notebookpractice.SubClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SuperClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.notebookpractice{SuperClass.java[SuperClass" matchStrategy="1" name="SubClass" qualified="false" references="true" similarDeclarations="false" stamp="1658912531334" textual="false" version="1.0"/>
+</session>

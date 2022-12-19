@@ -1,0 +1,26 @@
+package com.snr.demo.test;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		 * final int arr[]= {90,100}; //new int[3];
+		 * 
+		 * System.out.println("LEN:+arr.length"); System.out.println(arr[0]);//90
+		 * System.out.println(arr[1]);//100 System.out.println();
+		 * 
+		 * arr[0]=99; arr[1]=88;
+		 * 
+		 * 
+		 * 
+		 * System.out.println(arr[0]); System.out.println(arr[1]);
+		 * 
+		 */
+		
+		
+		int arr[]=new int[5];
+		System.out.println(arr);
+	}
+
+}

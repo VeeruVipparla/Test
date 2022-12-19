@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+<class  name="com.test.hibernate.Country"  table="countrys">
+<id  name="sNo">
+<generator  class="assigned"/>
+</id>
+<property  name="capital"></property>
+<property  name="currency"></property>
+<property  name="population"></property>
+<property  name="countryName"> </property>
+
+
+</class>
+</hibernate-mapping>

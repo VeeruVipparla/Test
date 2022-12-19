@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="220"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="1202"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="129"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="expressionHistory">
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="1116"/>
+		<item key="HEIGHT" value="352"/>
+		<item key="SashWeightTree" value="500"/>
+		<item key="SashWeightDetails" value="500"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.snr.demo.test{inheratance_single.java[inheratance_single~main~\[QString;[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;Arrays{Class1.java[Class2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.veeru.Thread{Demo1.java[Demo&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.veeru.Thread{Demo.java[Demo&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.veeru.Thread{Deadlock.java[BookTicket[Deadlock&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.veeru.Stringclass{Demo1.java[Demo1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.veeru.Stringclass{package-info.java[StrDemo&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.snr.interview.test.programs{Animal.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;com.snr.interview.test.programs{Animal1.java[Test1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Demo/src&amp;lt;Arrays{Class1.java[Class1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Hibernate_Countires/G:\/jar_files\/hibernatejar\/hibernatejar\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="838"/>
+			<item key="DIALOG_WIDTH" value="619"/>
+			<item key="DIALOG_X_ORIGIN" value="671"/>
+			<item key="DIALOG_Y_ORIGIN" value="145"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="conditionHistory">
+	</section>
+</section>

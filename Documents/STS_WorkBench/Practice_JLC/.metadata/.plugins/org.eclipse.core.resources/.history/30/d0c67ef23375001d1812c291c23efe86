@@ -1,0 +1,29 @@
+package com.practiceprograms;
+
+class D {
+	public D() {
+		System.out.println("D con");
+	}
+
+	public void xyz() {
+		System.out.println("D called");
+	}
+}
+
+class E extends D {
+	public E() {
+		System.out.println("E con");
+	}
+
+	public void xyz() {
+		System.out.println("E called");
+	}
+}
+
+public class Demo3 {
+	public static void main(String[] args) {
+
+		E e = new E();
+		e.xyz();
+	}
+}
